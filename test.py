@@ -1,0 +1,1 @@
+print('kabira maan ja')
