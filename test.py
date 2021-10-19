@@ -1,1 +1,0 @@
-print('kabira maan ja')
